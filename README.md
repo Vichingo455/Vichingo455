@@ -8,4 +8,7 @@ I am a student appassioned by technology.
 - Mobile brand: SAMSUNG
 
 ## My projects
-Wiew on repository tab 😃
+Wiew on under this 😃
+
+## Pages
+- 
