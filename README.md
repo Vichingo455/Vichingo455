@@ -10,6 +10,6 @@ I am a student appassioned by technology.
 ## My projects
 Wiew on under this 😃
 
-## Pages
+## Support me
 - [MediaFire](https://www.mediafire.com/?dqcf77x)
-- [OneDrive]
+- [OneDrive](https://onedrive.live.com?invref=81a6fbaabee8b373&invscr=90)
