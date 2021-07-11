@@ -11,4 +11,5 @@ I am a student appassioned by technology.
 Wiew on under this 😃
 
 ## Pages
-- 
+- [MediaFire](https://www.mediafire.com/?dqcf77x)
+- [OneDrive]
