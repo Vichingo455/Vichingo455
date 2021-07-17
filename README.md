@@ -7,6 +7,9 @@ I am a student appassioned by technology.
 - Desktop brand: ASUS
 - Mobile brand: SAMSUNG
 
+## Socials
+- [Discord](https://tinyurl.com/Vichingo455DiscordServer)
+
 ## My projects
 Wiew under this 😃
 
