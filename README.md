@@ -9,6 +9,7 @@ I am a student appassioned by technology.
 
 ## Socials
 - [Discord](https://tinyurl.com/Vichingo455DiscordServer)
+- [Telegram](https://t.me/Vichingo455channel)
 
 ## My projects
 Wiew under this 😃
