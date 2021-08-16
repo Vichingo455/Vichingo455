@@ -20,3 +20,6 @@ Wiew under this 😃
 
 ## What do i do on my PC?
 I test some viruses using virtual machines ([VMware](https://vmware.com)). I also made my own malware.
+
+## Privacy Policies
+My privacy policy is valid for all projects and is stored [here](https://tiny.one/Vichingo455PrivacyPolicy)
