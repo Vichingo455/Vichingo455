@@ -15,7 +15,7 @@ I am a student appassioned by technology.
 Wiew under this 😃
 
 Other projects:
-- [TestDisk PE](https://archive.org/details/testdisk-pe)
+- [TestDisk PE](https://sourceforge.net/projects/testdisk-pe.testdisk.p)
 
 ## Support me
 - [MediaFire](https://www.mediafire.com/?dqcf77x)
