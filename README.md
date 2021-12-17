@@ -17,6 +17,8 @@ Wiew under this 😃
 Other projects:
 - [TestDisk PE](https://sourceforge.net/projects/testdisk-pe.testdisk.p)
 
+**DISCLAIMER: All of my projects comes with NO warranties. You are responsible for any damages caused by using them**
+
 ## Support me
 - [MediaFire](https://www.mediafire.com/?dqcf77x)
 - [OneDrive](https://onedrive.live.com?invref=81a6fbaabee8b373&invscr=90)
