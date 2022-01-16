@@ -22,6 +22,7 @@ Other projects:
 ## Support me
 - [MediaFire](https://www.mediafire.com/?dqcf77x)
 - [OneDrive](https://onedrive.live.com?invref=81a6fbaabee8b373&invscr=90)
+- [MEGA](https://mega.nz/C!6NpjTJYZ)
 
 ## What do i do on my PC?
 I test some viruses using virtual machines ([VMware](https://vmware.com)). I also made my own malware.
