@@ -16,6 +16,7 @@ Wiew under this 😃
 
 Other projects:
 - [TestDisk PE](https://sourceforge.net/projects/testdisk-pe.testdisk.p)
+- [.NET Framework 3.5 Enabler with Windows CD](https://gist.github.com/Vichingo455/d9911eee7e333651caab7273d3cea7ab)
 
 **DISCLAIMER: All of my projects comes with NO warranties. You are responsible for any damages caused by using them**
 
