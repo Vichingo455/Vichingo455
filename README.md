@@ -1,5 +1,5 @@
 # Vichingo455
-I am a student appassioned by technology.
+I am a student that loves technology.
 
 ## My preefers
 - Desktop OS: Windows
